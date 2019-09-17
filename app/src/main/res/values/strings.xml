@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Count-Stock</string>
+    <string name="fb_button_Login">Iniciar Sesion con Facebook</string>
+    <string name="intro_login">Una nueva manera de gestionar tu inventario.</string>
+    <string name="register_button">Registrarte Gratis</string>
+    <string name="login_button">Iniciar Sesion</string>
 </resources>

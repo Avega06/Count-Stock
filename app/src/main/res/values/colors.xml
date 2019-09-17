@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimary">#1a021f</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="centerGradient">#28496D</color>
+    <color name="endGradient">#5A8DC8</color>
+    <color name="startGradient">#0C2037</color>
+    <color name="fbColor">#1D2A63</color>
+    <color name="whiteColor">#FFFF</color>
+    <color name="registColor">#02731E</color>
+    <color name="blackColor">#000</color>
 </resources>
